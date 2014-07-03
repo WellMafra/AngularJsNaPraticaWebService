@@ -11,11 +11,11 @@
 
 	<properties>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<slf4j.version>1.7.1</slf4j.version>
-		<maven.compiler.source>1.8</maven.compiler.source>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<querydsl.version>3.3.2</querydsl.version>
+		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
+		<querydsl.version>3.3.2</querydsl.version>
+		<slf4j.version>1.7.1</slf4j.version>
 	</properties>
 
 	<dependencyManagement>
